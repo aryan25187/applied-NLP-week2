@@ -1,3 +1,6 @@
+data/*.txt # Directory for data files
+data/PetSemetary.txt
+data/TheShining.txt
 # Ignore data folder and heavy pptx files
 data/
 slides/*.pptx
